@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.Collections;
-
 public class ReverseLinkedList {
     public static class Node {
         int data;
